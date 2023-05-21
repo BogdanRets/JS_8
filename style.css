@@ -1,0 +1,9 @@
+a.hov {
+    color: black; 
+    font-size: 50px; 
+    text-decoration: none;
+}
+.hov:hover{
+    text-decoration: underline;
+    color: rgb(38, 141, 209);
+}
